@@ -107,13 +107,13 @@ Passionate about **Full Stack Development**, **Artificial Intelligence**, **Netw
 AI-powered agent for automatic road degradation detection and mapping, developed during my internship at the Direction Générale des Routes (Morocco). Uses YOLOv11 for real-time damage detection combined with Gemini 2.0 Flash for analysis, with interactive geolocation mapping of detected road issues.  
 **Tech:** `YOLOv11` `Gemini 2.0 Flash` `FastAPI` `Next.js` `PostgreSQL` `Leaflet.js` `Computer Vision`
 
+### 🏦 Bank Fraud Detection System *(in progress)*
+Full-stack ML system for real-time banking fraud detection.
+**Tech:** `Angular` `Python` `FastAPI` `Scikit-learn` `PostgreSQL`
+
 ### 📊 Sales Forecasting Web App (ForecastIQ) *(PFA 4A)*
 Full-stack ML application with dashboards for sales forecasting — EMSI
 **Tech:** `Next.js` `React` `Python` `Flask` `PostgreSQL` `Scikit-learn` `Statsmodels` `JWT`
- 
-### 🛒 ElectroZone — E-Commerce Platform
-Full-stack e-commerce web application with product catalog, cart, order tracking and admin dashboard
-**Tech:** `Spring Boot` `Java 21` `Thymeleaf` `Spring Security` `JPA/Hibernate` `H2 Database` `Bootstrap 5` `Chart.js`
  
 ### 🤖 CVMatch AI — CV Analysis & Job Matching SaaS Platform
 AI-powered platform for automatic CV analysis and job offer matching
