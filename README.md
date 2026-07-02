@@ -107,34 +107,26 @@ Passionate about **Full Stack Development**, **Artificial Intelligence**, **Netw
 AI-powered agent for automatic road degradation detection and mapping, developed during my internship at the Direction Générale des Routes (Morocco). Uses YOLOv11 for real-time damage detection combined with Gemini 2.0 Flash for analysis, with interactive geolocation mapping of detected road issues.  
 **Tech:** `YOLOv11` `Gemini 2.0 Flash` `FastAPI` `Next.js` `PostgreSQL` `Leaflet.js` `Computer Vision`
 
-### 📊 Sales Forecasting Web App *(PFA 4A)*
-Full-stack ML application with dashboards for sales forecasting — EMSI  
-**Tech:** `Next.js` `React` `Python` `Flask` `PostgreSQL` `Scikit-learn` `JWT`
-
-### 🛒 ElectroZone — E-Commerce Platform *(Grande Échelle)*
-Large-scale e-commerce platform with real-time analytics, sales forecasting, and AI chatbot  
-**Tech:** `Spring Boot` `Java` `Next.js` `PostgreSQL` `MongoDB` `Docker` `JWT` `NLP`
-
-### 🗑️ Smart Dustbin — Système de Tri Automatique des Déchets
-Poubelle intelligente triant automatiquement les déchets (métal, humide, sec) via capteurs IoT. Transmission temps réel vers app Flutter via ESP32 WiFi.  
-**Tech:** `Flutter` `ESP32` `IoT` `Firebase` `Sensors`
-
-### 🤖 CV Analysis & Job Matching SaaS Platform
-AI-powered platform for automatic CV analysis and job offer matching  
-**Tech:** `Next.js` `Tailwind CSS` `TypeScript` `FastAPI` `PostgreSQL` `NLP` `JWT`
-
-### 🏦 Bank Fraud Detection System
-Full-stack ML system for real-time banking fraud detection  
-**Tech:** `Angular` `Python` `FastAPI` `Scikit-learn` `PostgreSQL`
-
-### 🎓 E-Learning Platform
-Online learning platform with course management, quizzes, and progress tracking  
-**Tech:** `ASP.NET Core` `C#` `SQL Server` `Entity Framework` `SignalR` `Bootstrap`
-
+### 📊 Sales Forecasting Web App (ForecastIQ) *(PFA 4A)*
+Full-stack ML application with dashboards for sales forecasting — EMSI
+**Tech:** `Next.js` `React` `Python` `Flask` `PostgreSQL` `Scikit-learn` `Statsmodels` `JWT`
+ 
+### 🛒 ElectroZone — E-Commerce Platform
+Full-stack e-commerce web application with product catalog, cart, order tracking and admin dashboard
+**Tech:** `Spring Boot` `Java 21` `Thymeleaf` `Spring Security` `JPA/Hibernate` `H2 Database` `Bootstrap 5` `Chart.js`
+ 
+### 🤖 CVMatch AI — CV Analysis & Job Matching SaaS Platform
+AI-powered platform for automatic CV analysis and job offer matching
+**Tech:** `React (Vite)` `Tailwind CSS` `JavaScript` `Node.js/Express` `PostgreSQL` `MongoDB` `Google Gemini AI` `JWT`
+ 
+### 🎓 Internship Management System (GestionStages)
+Role-based platform for managing internship offers, applications, conventions and evaluations
+**Tech:** `ASP.NET Core MVC (.NET 10)` `C#` `SQL Server` `Entity Framework Core`
+ 
 ### 🕌 Ministry of Habous Digital Portal *(Internship 2025)*
-Centralized digital portal: Quran reader, mosque geolocation, prayer times, Hijri calendar  
-**Tech:** `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB`
-
+Centralized digital portal: Quran reader, mosque geolocation, prayer times, Hijri calendar
+**Tech:** `HTML5` `CSS3` `JavaScript`
+ 
 ### 📰 NewSphere — News Explorer *(PFA 3A)*
-Real-time news aggregation web application — EMSI  
-**Tech:** `Laravel` `TypeScript` `Tailwind CSS` `MySQL`
+Real-time news aggregation web application — EMSI
+**Tech:** `Next.js` `TypeScript` `Tailwind CSS`
