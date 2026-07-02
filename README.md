@@ -119,10 +119,6 @@ Full-stack e-commerce web application with product catalog, cart, order tracking
 AI-powered platform for automatic CV analysis and job offer matching
 **Tech:** `React (Vite)` `Tailwind CSS` `JavaScript` `Node.js/Express` `PostgreSQL` `MongoDB` `Google Gemini AI` `JWT`
  
-### 🎓 Internship Management System (GestionStages)
-Role-based platform for managing internship offers, applications, conventions and evaluations
-**Tech:** `ASP.NET Core MVC (.NET 10)` `C#` `SQL Server` `Entity Framework Core`
- 
 ### 🕌 Ministry of Habous Digital Portal *(Internship 2025)*
 Centralized digital portal: Quran reader, mosque geolocation, prayer times, Hijri calendar
 **Tech:** `HTML5` `CSS3` `JavaScript`
