@@ -3,7 +3,7 @@
 ---
 
 🎓 **4th year engineering student** at [EMSI](https://www.emsi.ma) — Computer Science & Networks  
-📧 malakbakhouti15@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/malak-bakhouti-705903379/) 
+📧 malakbakhouti2@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/malak-bakhouti-705903379/) 
 
 ---
 
